@@ -1,0 +1,6 @@
+body{
+	background-image: url("#{resource['images/folder:back.png']}");
+	background-size: 100%;
+	background-color: white;
+
+}
